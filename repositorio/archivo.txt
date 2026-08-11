@@ -1,1 +1,2 @@
-Esto es un archivo 
+Esto es un archivo
+Linea 2 
